@@ -1,3 +1,7 @@
+# Fork of Text Scaler for GNOME Shell
+
+May contain bugs. it is my first attempt at gnome-extension-making
+
 # Text Scaler extension for GNOME Shell
 
 Simple extension that provides a convenient way to set random
