@@ -112,7 +112,7 @@ class TextScalerButton {
 
 		// button to reset defaults
 		this._resetValueItem = new PopupMenu.PopupMenuItem(
-			_(`Reset fom ${this._get_text_scaling_factor()} to ${DEFAULT_VALUE}`)
+			_(`Reset to default value`)
 		);
 		this._resetValueItem.connect("activate", (menuItem, event) =>
 			this._onResetValueActivate()
