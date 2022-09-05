@@ -27,7 +27,7 @@ This is how the popup menu from the top panel currently looks:
 
 Clone the repository:
 
-    $ git clone git://github.com/mariospr/text-scaler-gnome-shell-extension text-scaler
+    $ git clone git://github.com/pedromarquetti/text-scaler-gnome-shell-extension text-scaler
     $ cd text-scaler
 
 And type the following to install it under /usr (or any other prefix):
